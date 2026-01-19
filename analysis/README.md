@@ -1,0 +1,1 @@
+Esta carpeta contiene el cuaderno utilizado para el cálculo de métricas de diversidad léxica y sintaxis superficial, así como para la comparación entre crónicas generadas y el corpus humano de referencia.
